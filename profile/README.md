@@ -1,6 +1,6 @@
-## Welcome to TITS 👋
+## Welcome to MI Labs 👋
 
-The Intelligent Trading Systems
+MI Labs
 
 <!--
 
