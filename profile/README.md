@@ -1,6 +1,6 @@
-## Welcome to MI Labs 👋
+## Welcome to Wavecode 👋
 
-MI Labs
+Wavecode
 
 <!--
 
